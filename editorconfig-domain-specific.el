@@ -1,4 +1,4 @@
-;;; editorconfig-domain-specific.el --- Apply brace style and other "domain-specific" EditorConfig properties
+;;; editorconfig-domain-specific.el --- Apply brace style and other "domain-specific" EditorConfig properties -*- lexical-binding: t -*-
 ;;
 ;; Author: Lassi Kortela <lassi@lassi.io>
 ;; URL: https://github.com/lassik/editorconfig-emacs-domain-specific
